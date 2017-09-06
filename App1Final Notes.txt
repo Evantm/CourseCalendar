@@ -1,0 +1,8 @@
+https://banssbprod.tru.ca/banprod/bwckctlg.p_disp_listcrse?term_in=201730&subj_in=COMP&crse_in=1130&schd_in=%
+
+https://banssbprod.tru.ca/banprod/bwckgens.p_proc_term_date
+
+https://banssbprod.tru.ca/banprod/bwckctlg.p_disp_listcrse?term_in=YEAR[2017]SEMESTER[30]&subj_in=SUBJECT[COMP]&crse_in=CLASSNUMBER[1130]&schd_in=%
+SEMSTER -> 30 is summer, 20 is winter, 10 is fall but YEAR is 1 greater. 
+
+https://banssbprod.tru.ca/banprod/bwckctlg.p_disp_listcrse?term_in=201730&subj_in=%&crse_in=1130&schd_in=% -> % is wildcard
